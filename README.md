@@ -1,5 +1,5 @@
 Projeto Extensionista da Faculade Estacio de SÁ Niterói (Unesa)
-Curso: Desenvolvimento Rapido em Python
+Curso: Desenvolvimento Rapido em Python \n
 Grupo: 
     José Roberto Duarte Hegendorne. Matrícula: 202502214154
     Rennan Ferreira de Almeida. Matrícula: 202502211708
